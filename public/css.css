@@ -1,0 +1,30 @@
+#first {
+  padding: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+tr, table, th, td {
+  color: white;
+  border: 2px dashed  #ffffff;
+  box-shadow: 0 0 0 8px #2835a8;
+    border-collapse: collapse;
+    margin: 0px auto;
+    height: 50px;
+    text-align: center;
+}
+
+
+table {
+    border-spacing: 15px;
+    width: 100%;
+}
+
+body {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(-90deg, red, black); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-90deg, red, black); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(-90deg, red, black); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(-90deg, red, black); /* Standard syntax */
+}

@@ -1,0 +1,37 @@
+{
+  "movies": [
+    {
+      "title": "The Shining",
+      "director": "Stanley Kubrik",
+      "year": "1980",
+      "myRating": "2",
+      "posterUrl": "http://static.rogerebert.com/uploads/movie/movie_poster/the-shining-1980/large_zc5y5OwKSV9MDXpfWxwrOjyRHsq.jpg",
+      "id": "2"
+    },
+    {
+      "title": "The Babadook",
+      "director": "Jennifer Kent",
+      "year": "2014",
+      "myRating": "3",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg",
+      "id": "3"
+    },
+    {
+      "title": "Gangs of Wasseypur",
+      "director": "Anurag Kashyap",
+      "year": "2012",
+      "myRating": "66",
+      "posterUrl": "http://www.imdb.com/title/tt1954470/mediaviewer/rm3981377280",
+      "id": "16"
+    },
+    {
+      "title": "Gangs of Wasseypur",
+      "director": "Anurag Kashyap",
+      "year": "2012",
+      "myRating": "1",
+      "posterUrl": "http://www.imdb.com/title/tt1954470/mediaviewer/rm3981377280",
+      "id": "17"
+    }
+  ],
+  "idCounter": 19
+}

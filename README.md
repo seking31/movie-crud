@@ -1,21 +1,21 @@
 # MOVIE CRUD
 
-### Make your own movie rating site.
+## Make your own movie rating site.
 
 1. Fork and Clone this repository
-1. Create CRUD Routes.
-1. Style your site. However, CRUD is the priority.
-1. Deploy your site
+2. Create CRUD Routes.
+3. Style your site. However, CRUD is the priority.
+4. Deploy your site
 
 ## HOME PAGE
 
-- Your homepage can be whatever you want.  Make sure it has a link to your index page.
+- Your homepage can be whatever you want. Make sure it has a link to your index page.
 
 ![Home](/mockups/home.png)
 
 ## INDEX PAGE
 
-- Your index page should list all your movies.  The titles of the movies should link to that movies show page. There should be a button that links to each movie's edit page and a button to delete each movie.
+- Your index page should list all your movies. The titles of the movies should link to that movies show page. There should be a button that links to each movie's edit page and a button to delete each movie.
 
 ![Index](/mockups/index.png)
 
@@ -37,16 +37,12 @@
 
 ![Index](/mockups/show.png)
 
+## ROUTES
 
-## ROUTES 
- 
 Use the RESTful routes for each of your routes.
 
-- GET /movies   _lists all movies_
-- POST /movies  _creates a new movie_
-- GET /movies/:id  _show one movie_
+- GET /movies _lists all movies_
+- POST /movies _creates a new movie_
+- GET /movies/:id _show one movie_
 - GET /movies/:id/edit _form to edit a movie_
-- ... etc 
-
-
-
+- ... etc
